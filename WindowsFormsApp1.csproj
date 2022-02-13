@@ -80,5 +80,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="ico\icon_disk.png" />
+    <Content Include="ico\icon_folder.png" />
+    <Content Include="ico\icon_folder_open.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
